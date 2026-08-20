@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">أبو صرار</string>
+    <string name="settings_title">الإعدادات</string>
+    <string name="accessibility_service_description">يسمح لأبو صرار بالتحكم في واجهة المستخدم لتنفيذ الأوامر الصوتية داخل التطبيقات. لن يتم جمع أي بيانات شخصية.</string>
+    <string name="status_ready">جاهز للاستماع</string>
+    <string name="status_listening">أستمع إليك...</string>
+    <string name="status_processing">جاري التنفيذ...</string>
+    <string name="status_done">تم التنفيذ.</string>
+    <string name="mic_click_hint">اضغط للاستماع</string>
+    <string name="wake_word_response">تفضل سيدي.</string>
+    <string name="error_not_found">ما لقيت %s على الجهاز.</string>
+    <string name="error_unknown_command">ما فهمت الأمر.</string>
+    <string name="error_execution_failed">ما قدرت أنفذ الأمر.</string>
+    <string name="error_no_match">لم أتمكن من فهم ما قلته</string>
+    <string name="error_speech_timeout">لم أسمع شيئاً</string>
+    <string name="permission_microphone_rationale">أبو صرار يحتاج صلاحية الميكروفون لسماع صوتك وتحويله لأوامر.</string>
+</resources>

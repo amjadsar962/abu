@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">أبو صرار</string>
+    <string name="settings_title">الإعدادات</string>
+    <string name="accessibility_service_description">يسمح لأبو صرار بالتحكم في واجهة المستخدم لتنفيذ الأوامر الصوتية داخل التطبيقات.</string>
+</resources>
